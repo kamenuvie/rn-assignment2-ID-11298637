@@ -23,5 +23,6 @@ You can follow this link for assistance
 https://reactnative.dev/docs/set-up-your-environment
 
 # Screenshot of the  Project
+![kingsApp Mobile App jpg1](https://github.com/kamenuvie/rn-assignment2-ID-11298637/assets/170736194/5f4b8c7a-5be4-49a4-af81-f887e674b718)
 
-![kingsApp Mobile App](https://github.com/kamenuvie/rn-assignment2-ID-11298637/assets/170736194/72e4acee-feb6-424f-9076-419d402208ef)
+
